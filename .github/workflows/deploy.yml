@@ -74,3 +74,4 @@ jobs:
           echo "Deployment completed successfully"
           echo "Image: $ACR_LOGIN_SERVER/$IMAGE_NAME:$IMAGE_TAG"
           echo "======================================"
+          
