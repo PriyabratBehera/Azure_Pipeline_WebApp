@@ -1,0 +1,13 @@
+{
+  "name": "azure-devops-demo-backend",
+  "version": "1.0.0",
+  "description": "Dummy backend for Azure DevOps practice",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
